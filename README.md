@@ -1,2 +1,4 @@
 # NER_workshop
-Workshop of entity extraction from literary texts
+Workshop on entity extraction from literary texts.
+
+Run in collaboration by Matt Wilkins and Ross Deans Kristensen-McLachlan.
