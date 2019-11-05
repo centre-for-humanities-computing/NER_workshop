@@ -13,4 +13,4 @@ If you would rather run the notebook locally, please clone this repo and run Jup
 - geocoder
 - pandas
 - spaCy
-- spaCy language model (python3 -m spacy download en_core_web_sm)
+- spaCy's English language model (python3 -m spacy download en_core_web_sm)
