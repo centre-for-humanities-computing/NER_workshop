@@ -1,9 +1,11 @@
 # NER_workshop
 Workshop on entity extraction from literary texts. Run in collaboration by Matthew Wilkens and Ross Deans Kristensen-McLachlan.
 
-We <i>strongly</i> advise participants to access the notebook for this workshop via Google Collab. You can access it via the following link (no sign-up required):
+We <i>strongly</i> advise participants to access the notebook for this workshop via Google Colab. You can access it via the following link (no sign-up required):
 
 https://colab.research.google.com/drive/1dNX5M1wfBgd5GAKk48oqvs-ZiN071ZGm
+
+Once there, click on <i>Open in playground</i>. If you're having difficulties accessing the Colab notebook, let us know on the day - we'll be around.
 
 If you would rather run the notebook locally, please clone this repo and run Jupyter notebooks as you normally would. If you choose this option, be aware that you'll need Python3 and the most recent versions of the following pacakges.
 
