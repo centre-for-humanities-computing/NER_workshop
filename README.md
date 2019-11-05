@@ -1,7 +1,7 @@
 # NER_workshop
 Workshop on entity extraction from literary texts. Run in collaboration by Matthew Wilkens and Ross Deans Kristensen-McLachlan.
 
-We <i>strongly</i> advise participants to access the notebook for this workshop via Google Collab. You can access it via the following link (Google account required):
+We <i>strongly</i> advise participants to access the notebook for this workshop via Google Collab. You can access it via the following link (no sign-up required):
 
 https://colab.research.google.com/drive/1dNX5M1wfBgd5GAKk48oqvs-ZiN071ZGm
 
